@@ -424,4 +424,4 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file `LICENSE` untuk detail 
 
 **Terakhir Diupdate:** March 24, 2026  
 **Versi:** 1.0.0  
-**Author:** PPL Praktikum 1 Team
+**Author:** Muhammad Hafizh Fenaldi
